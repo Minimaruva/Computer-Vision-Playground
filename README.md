@@ -7,6 +7,11 @@ The repo is split into exercises and my personal solutions
 > I would appreciate it if you gave my repo a star ;\)
 
 
+Start with Mini-Projects that are curated with step-by-step explanations
+
+Or checkout exercises from Fundamentals to Intermediate ones that you can reuse in your personal projects!
+
+
 ## Useful sources for learning:
 
 Murtazas Workshop yt channel and website:
@@ -37,3 +42,4 @@ https://iitmengineer.substack.com/p/mastering-computer-vision-from-math?r=5cu2ul
 
 https://research.google/blog/mediapipe-iris-real-time-iris-tracking-depth-estimation/
 
+https://ai.google.dev/edge/api/mediapipe/python/mp/tasks/vision
